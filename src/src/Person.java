@@ -1,2 +1,3 @@
-public interface Person {
+interface Person {
+    String getInfo();
 }
